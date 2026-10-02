@@ -247,4 +247,4 @@ datacat/
 
 ## License
 
-To be decided (for example, MIT).
+MIT (ALL RIGHTS ARE RESERVED)
